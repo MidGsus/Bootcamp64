@@ -1,5 +1,5 @@
 <?php
-
+require 'vendor/autoload.php';
 require 'core/bootstrap.php';
 
 //$request = $_SERVER['REQUEST_URI'];
